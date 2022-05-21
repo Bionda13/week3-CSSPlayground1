@@ -87,33 +87,28 @@ ul {
 #td-ingredients ul li {
     margin-bottom: 0.5rem;
 }
-.footer{
+.footer {
     padding-bottom: 3rem;
 }
-
-.footer ul{
+.footer ul {
     margin: 0 auto;
     text-align: center;
     width: 50%;
-    
 }
 
-.footer ul li{
+.footer ul li {
     display: inline-block;
-   
 }
 
-.footer ul li :first-child{
+.footer ul li:first-child {
     margin-right: 5rem;
 }
 
-.footer ul li :last-child{
-    margin-left: 5rem
-
+.footer ul li:last-child {
+    margin-left: 5rem;
 }
 
-.footer ul li a{
-    color: #777;
+.footer ul li a {
+    color: rgba(0, 132, 255, 0.692);
     font-size: 3rem;
-
 }
