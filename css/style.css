@@ -93,8 +93,9 @@ ul {
 
 .footer ul{
     margin: 0 auto;
-    width: 50%;
     text-align: center;
+    width: 50%;
+    
 }
 
 .footer ul li{
